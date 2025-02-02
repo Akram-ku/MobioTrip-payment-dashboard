@@ -32,7 +32,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/payment-dashboard.git](https://github.com/Akram-ku/MobioTrip-payment-dashboard.git)
+   git clone https://github.com/Akram-ku/MobioTrip-payment-dashboard.git
    cd payment-dashboard
    ```
 
